@@ -1,0 +1,8 @@
+references:
+  - "https://en.wikipedia.org/wiki/Mercedes-Benz_CL-Class"
+
+generations:
+  - name: "C216"
+    start_year: 2007
+    end_year: 2014
+    description: "The coupe based on the W221 S-Class, with V8 and V12 engines."
